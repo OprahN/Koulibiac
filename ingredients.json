@@ -1,0 +1,114 @@
+[
+  {
+    "nutriscore_grade": "b",
+    "nutriscore_score": -3,
+    "image_url": "https://images.openfoodfacts.org/images/products/345/630/000/2492/front_fr.63.400.jpg",
+    "product_name": "Pur jus de citron",
+    "brands": "Jardin bio, Léa Nature"
+  },
+  {
+    "nutriscore_grade": "a",
+    "nutriscore_score": -6,
+    "image_url": "https://images.openfoodfacts.org/images/products/326/385/988/8213/front_fr.15.400.jpg",
+    "product_name": "Aneth coupé",
+    "brands": "Leader Price"
+  },
+  {
+    "nutriscore_grade": "e",
+    "nutriscore_score": 19,
+    "image_url": "https://images.openfoodfacts.org/images/products/315/423/080/5342/front_fr.3.400.jpg",
+    "product_name": "Pâte feuilleté Trésor de Grand Mère",
+    "brands": "Herta"
+  },
+  {
+    "nutriscore_grade": "e",
+    "nutriscore_score": 20,
+    "image_url": "https://images.openfoodfacts.org/images/products/345/179/098/8677/front_en.186.400.jpg",
+    "product_name": "Le Beurre Tendre Doux",
+    "brands": "Elle & Vire, Savencia"
+  },
+  {
+    "nutriscore_grade": "not-applicable",
+    "nutriscore_score": null,
+    "image_url": "https://images.openfoodfacts.org/images/products/318/328/000/1800/front_en.123.400.jpg",
+    "product_name": "sel",
+    "brands": "baleine"
+  },
+  {
+    "nutriscore_grade": "not-applicable",
+    "nutriscore_score": null,
+    "image_url": "https://images.openfoodfacts.org/images/products/316/629/655/0371/front_fr.13.400.jpg",
+    "product_name": "Moulin Poivre Noir",
+    "brands": "Ducros"
+  },
+  {
+    "nutriscore_grade": "a",
+    "nutriscore_score": -3,
+    "image_url": "https://images.openfoodfacts.org/images/products/366/433/505/0368/front_fr.32.400.jpg",
+    "product_name": "Pavés de Saumon",
+    "brands": "L'atelier poissonnerie"
+  },
+  {
+    "nutriscore_grade": "c",
+    "nutriscore_score": 3,
+    "image_url": "https://images.openfoodfacts.org/images/products/872/270/047/1974/front_fr.3.400.jpg",
+    "product_name": "Knorr Court-Bouillon déshydraté 1kg jusqu'à 50L",
+    "brands": "Knorr"
+  },
+  {
+    "nutriscore_grade": "not-applicable",
+    "nutriscore_score": null,
+    "image_url": "https://images.openfoodfacts.org/images/products/317/552/003/6338/front_fr.13.400.jpg",
+    "product_name": "Vin blanc sec",
+    "brands": "La Villageoise"
+  },
+  {
+    "nutriscore_grade": "a",
+    "nutriscore_score": -1,
+    "image_url": "https://images.openfoodfacts.org/images/products/356/470/081/4628/front_fr.73.400.jpg",
+    "product_name": "Oeufs frais plein air Oméga3 x 12",
+    "brands": "Marque Repère, Oeufs de Nos Régions"
+  },
+  {
+    "nutriscore_grade": "b",
+    "nutriscore_score": -2,
+    "image_url": "https://images.openfoodfacts.org/images/products/356/470/002/4164/front_en.16.400.jpg",
+    "product_name": "Riz basmati",
+    "brands": "Marque Repère, Comptoir du Grain"
+  },
+  {
+    "nutriscore_grade": "a",
+    "nutriscore_score": -6,
+    "image_url": "https://images.openfoodfacts.org/images/products/308/368/111/5970/front_fr.27.400.jpg",
+    "product_name": "L'Épinard Feuilles Préservées",
+    "brands": "Bonduelle"
+  },
+  {
+    "nutriscore_grade": "a",
+    "nutriscore_score": -2,
+    "image_url": "https://images.openfoodfacts.org/images/products/356/470/017/6153/front_fr.35.400.jpg",
+    "product_name": "Champignons de Paris 1er choix émincés",
+    "brands": "Marque Repère, Notre Jardin"
+  },
+  {
+    "nutriscore_grade": "a",
+    "nutriscore_score": -5,
+    "image_url": "https://images.openfoodfacts.org/images/products/325/039/125/6136/front_fr.5.400.jpg",
+    "product_name": "Echalottes BIO, Le filet de 250 Gr",
+    "brands": "Intermarché"
+  },
+  {
+    "nutriscore_grade": "not-applicable",
+    "nutriscore_score": null,
+    "image_url": "https://images.openfoodfacts.org/images/products/316/629/621/1067/front_fr.55.400.jpg",
+    "product_name": "Ciboulette",
+    "brands": "Ducros"
+  },
+  {
+    "nutriscore_grade": "b",
+    "nutriscore_score": -1,
+    "image_url": "https://images.openfoodfacts.org/images/products/324/834/005/4063/front_fr.193.400.jpg",
+    "product_name": "Lait uht 1/2 écrémé",
+    "brands": "C\\'est qui le patron"
+  }
+]

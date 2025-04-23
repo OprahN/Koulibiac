@@ -1,0 +1,65 @@
+Le JSON contient l'ensemble des données des ingrédients de la recette.
+
+Chaque ingrédient possède les attributs suivants : 
+
+nutriscore_grade : lettre de nutriscore (a,b,c,d,e)
+nutriscore_score : valeur du nutriscore en nombre
+image_url : lien de l'image de l'ingrédient
+product_name : nom de l'ingrédient,
+brands : nom de la marque
+
+Remarque : 
+
+Pour le sel, le poivre et la ciboulette, il n'a pas de nutriscore car non applicable sur une épice.
+Pour le vin blanc, il n'y a pas de nutriscore car non applicable sur une boisson alcoolisée.
+
+
+Liste des urls : 
+
+// citron
+https://world.openfoodfacts.org/api/v2/product/3456300002492.json 
+
+// aneth
+https://world.openfoodfacts.org/api/v2/product/3263859888213.json
+
+// pate feuillete
+https://world.openfoodfacts.org/api/v2/product/3154230805342.json
+
+// beurre
+https://world.openfoodfacts.org/api/v2/product/3451790988677.json
+
+// sel
+https://world.openfoodfacts.org/api/v2/product/3183280001800.json
+
+// poivre
+https://world.openfoodfacts.org/api/v2/product/3166296550371.json
+
+//saumon
+https://world.openfoodfacts.org/api/v2/product/3664335050368.json
+
+//court bouillon
+ https://world.openfoodfacts.org/api/v2/product/8722700471974.json
+
+// vin blanc
+ https://world.openfoodfacts.org/api/v2/product/3175520036338.json
+
+// oeufs
+ https://world.openfoodfacts.org/api/v2/product/3564700814628.json
+
+// riz
+ https://world.openfoodfacts.org/api/v2/product/3564700024164.json
+
+// epinard
+ https://world.openfoodfacts.org/api/v2/product/3083681115970.json
+
+// champignon
+ https://world.openfoodfacts.org/api/v2/product/3564700176153.json
+
+// echalote
+ https://world.openfoodfacts.org/api/v2/product/3250391256136.json
+
+// ciboulette
+ https://world.openfoodfacts.org/api/v2/product/3166296211067.json
+
+// lait
+ https://world.openfoodfacts.org/api/v2/product/3248340054063.json
