@@ -58,6 +58,7 @@
 .ingredient-box img:first-of-type {
     height: 6rem;
     width: auto;
+    max-width: 100%;
     display: block;
     margin: auto;
     border-radius: 8px;
